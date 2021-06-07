@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gluske
+- 👋 Hi, I’m Lucas Barbosa
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning HTML, CSS, JS, NODEJS and REACT
 - 💞️ I’m looking to collaborate on ...
