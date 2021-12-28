@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Lucas Barbosa
 
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, NODE, PHP
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, NODE, PHP - Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
