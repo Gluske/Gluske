@@ -10,7 +10,4 @@
 * **Age**: 25
 * **Living in**: Sumaré - SP, Brazil
 * **Stack**: PHP - Laravel - VueJS - MySQL
-* **University**: Ciência da Computação - FAM (Faculdade de Americana)
-
-## Sobre Mim
-* 
+* **University**: Ciência da Computação - FAM (Faculdade de Americana) 
