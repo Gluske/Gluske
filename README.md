@@ -1,11 +1,16 @@
-### 👋 Hi, I’m Lucas Barbosa
+<div>
+    <a target='_blank' href="https://linkedin.com/in/lucbarbosa/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</div>
 
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, NODE, PHP, LARAVEL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Detailed information
 
-<!---
-Gluske/Gluske is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* **Name**: Lucas Barbosa
+* **Age**: 25
+* **Living in**: Sumaré - SP, Brazil
+* **Stack**: PHP - Laravel - VueJS - MySQL
+* **University**: Ciência da Computação - FAM (Faculdade de Americana)
+
+## Sobre Mim
+* 
