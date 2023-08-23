@@ -8,6 +8,6 @@
 
 * **Name**: Lucas Barbosa
 * **Age**: 25
-* **Living in**: Sumaré - SP, Brazil
+* **Living in**: SP, Brazil
 * **Stack**: PHP - Laravel - VueJS - MySQL
 * **University**: Ciência da Computação - FAM (Faculdade de Americana) 
